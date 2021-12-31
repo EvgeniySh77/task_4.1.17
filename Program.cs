@@ -31,9 +31,7 @@ namespace task_4._1._17
 				Console.ForegroundColor = ConsoleColor.Black;
 
 				Console.WriteLine("Your color is cyan!");
-			}
-
-			Console.ReadKey();
+			}			
 		}
     }
 }
